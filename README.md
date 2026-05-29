@@ -25,4 +25,3 @@ This guide is divided into 11 core steps, covering the full lifecycle management
 
 - `SKILL.md`: Contains the complete detailed steps of this workflow and the execution instructions (Prompts) provided to the AI assistant.
 - `templates/`: Contains core configuration file templates, including Terraform infrastructure code (`main.tf`, `variables.tf`, `outputs.tf`), as well as Node.js scripts for AI log analysis (`analyze_logs.js`) and Telegram notifications (`send_telegram_msg.js`).
-# AWS-EC2-Node.js-Next.js-Deployment-Skill
